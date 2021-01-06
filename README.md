@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=messiahhh&label=Profile%20views&color=0e75b6&style=flat" alt="messiahhh" /> </p>
 
 
-⭐ I’m currently working on **Tencent**
+已经离开腾讯去字节跳动了
 
 
 
